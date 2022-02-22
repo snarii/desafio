@@ -1,2 +1,3 @@
-# desafio
-Github para o desafio de programação
+# Questões do Desafio
+
+As questões do desafio foram feitas na liguagem python no editor idle
