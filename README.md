@@ -1,5 +1,6 @@
 # Questões do Desafio
-#### Nome: _Sarah da Cunha Costa_
-* ##### [**Questão 1**](https://replit.com/join/mubpwojvrz-sarahcosta2)
-* ##### [**Questão 2**]() 
-
+**Nome:** Sarah da Cunha Costa
+> #### Desafio
+> * ##### [**Questão 1**](https://replit.com/join/mubpwojvrz-sarahcosta2)
+> * ##### [**Questão 2**](https://replit.com/join/enyzuuzhav-sarahcosta2)
+>   * Todas as questões foram feitas em Python no editor Idle.       
