@@ -1,5 +1,5 @@
-# Questões do Desafio
-**Nome:** Sarah da Cunha Costa
+# Questões do Desafio ❗
+**Nome:** Sarah da Cunha Costa 🍒
 > #### Desafio
 > * ##### [**Questão 1**](https://replit.com/join/mubpwojvrz-sarahcosta2)
 > * ##### [**Questão 2**](https://replit.com/join/enyzuuzhav-sarahcosta2)
