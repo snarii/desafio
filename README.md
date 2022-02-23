@@ -1,4 +1,4 @@
-# Questões do Desafio ❗
+# Questões do Desafio
 **Nome:** Sarah da Cunha Costa 🍒
 > #### Desafio
 > * ##### [**Questão 1**](https://replit.com/join/mubpwojvrz-sarahcosta2)
